@@ -2,12 +2,12 @@
 
 A local-first income and expense tracker covering **October 2026 through October 2036**. The app can be installed on iPhone and Android and works offline after its first load.
 
-## Install and use
+## Open the app
 
-The published app will be available at the GitHub Pages URL once Pages is enabled.
+[Launch Daybook](https://vijayrudra1997.github.io/daybook-personal-finance/)
 
-- **iPhone:** Open the app URL in Safari, tap **Share**, then **Add to Home Screen**.
-- **Android:** Open the app URL in Chrome, tap the menu, then **Install app** or **Add to Home screen**.
+- **iPhone:** Open the link in Safari, tap **Share**, then **Add to Home Screen**.
+- **Android:** Open the link in Chrome, tap the menu, then **Install app** or **Add to Home screen**.
 
 On first launch, enter your name and choose your currency. The app saves entries in that device's browser storage. They do **not** sync between your iPhone and Android. Use **Export** on one device and **Import** on the other to copy a backup manually.
 
